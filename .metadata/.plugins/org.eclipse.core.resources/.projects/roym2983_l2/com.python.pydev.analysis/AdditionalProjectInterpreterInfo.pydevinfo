@@ -1,0 +1,54 @@
+-- VERSION_5
+-- START DISKCACHE_3
+/Users/august/eclipse/ws/.metadata/.plugins/org.eclipse.core.resources/.projects/roym2983_l2/com.python.pydev.analysis/v2_indexcache
+t10|1694557224672107300|/Users/august/eclipse/ws/roym2983_l2/src/t10.py
+t01|1694478145285520195|/Users/august/eclipse/ws/roym2983_l2/src/t01.py
+t12|1694558517296612291|/Users/august/eclipse/ws/roym2983_l2/src/t12.py
+t11|1694557647372298395|/Users/august/eclipse/ws/roym2983_l2/src/t11.py
+t03|1694552413547230396|/Users/august/eclipse/ws/roym2983_l2/src/t03.py
+t14|1694561291659212316|/Users/august/eclipse/ws/roym2983_l2/src/t14.py
+t02|1694552037671833875|/Users/august/eclipse/ws/roym2983_l2/src/t02.py
+t13|1694491808203446365|/Users/august/eclipse/ws/roym2983_l2/src/t13.py
+t05|1694552525128367517|/Users/august/eclipse/ws/roym2983_l2/src/t05.py
+t04|1694552529505529244|/Users/august/eclipse/ws/roym2983_l2/src/t04.py
+t07|1694490398478168152|/Users/august/eclipse/ws/roym2983_l2/src/t07.py
+t06|1694554534565708318|/Users/august/eclipse/ws/roym2983_l2/src/t06.py
+t09|1694555830647925767|/Users/august/eclipse/ws/roym2983_l2/src/t09.py
+t08|1694554170563453243|/Users/august/eclipse/ws/roym2983_l2/src/t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+19=/Users/august/eclipse/ws/roym2983_l2/src/t14.py
+5=/Users/august/eclipse/ws/roym2983_l2/src/t06.py
+9=/Users/august/eclipse/ws/roym2983_l2/src/t08.py
+21=/Users/august/eclipse/ws/roym2983_l2/src/t04.py
+13=/Users/august/eclipse/ws/roym2983_l2/src/t02.py
+24=t10
+26=t11
+20=t14
+16=t13
+25=/Users/august/eclipse/ws/roym2983_l2/src/t11.py
+15=/Users/august/eclipse/ws/roym2983_l2/src/t13.py
+1=/Users/august/eclipse/ws/roym2983_l2/src/t09.py
+3=/Users/august/eclipse/ws/roym2983_l2/src/t05.py
+7=/Users/august/eclipse/ws/roym2983_l2/src/t07.py
+17=/Users/august/eclipse/ws/roym2983_l2/src/t03.py
+11=/Users/august/eclipse/ws/roym2983_l2/src/t01.py
+12=t01
+18=t03
+14=t02
+4=t05
+22=t04
+8=t07
+6=t06
+2=t09
+23=/Users/august/eclipse/ws/roym2983_l2/src/t10.py
+10=t08
+-- END DICTIONARY
+-- START TREE 1
+1
+mai|13|main!1^15#5*18@main!3^15#5*34@main!5^16#5*50@main!7^15#5*66@main!9^15#5*82@main!11^16#5*98@main!13^15#5*114@main!15^15#5*130@main!17^15#5*146@main!19^15#5*162@main!21^15#5*178@main!23^15#5*194@main!25^15#5*210@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

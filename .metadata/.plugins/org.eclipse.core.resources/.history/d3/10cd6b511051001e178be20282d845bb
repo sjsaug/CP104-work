@@ -1,0 +1,24 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  August
+ID:      169052983
+Email:   roym2983@mylaurier.ca
+__updated__ = "2023-09-11"
+-------------------------------------------------------
+"""
+# Imports
+
+# Constants
+
+
+def main():
+    principal_amount = int(input())
+    num_monthly_payments = (int(input()) * 12)
+    monthly_interest = int(input())
+    monthly_payment = principal_amount * \
+        (monthly_interest*(1 + monthly_interest) ^ num_monthly_payments)
+    print(monthly_payment)
+
+main()
