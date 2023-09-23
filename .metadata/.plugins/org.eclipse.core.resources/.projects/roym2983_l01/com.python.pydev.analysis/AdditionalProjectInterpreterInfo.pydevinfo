@@ -1,16 +1,25 @@
 -- VERSION_5
 -- START DISKCACHE_3
-/Users/august/eclipse/ws/.metadata/.plugins/org.eclipse.core.resources/.projects/roym2983_l01/com.python.pydev.analysis/v2_indexcache
-t01|1694468198044286578|/Users/august/eclipse/ws/roym2983_l01/src/t01.py
+/Users/august/eclipse/ws/CP104-work/.metadata/.plugins/org.eclipse.core.resources/.projects/roym2983_l01/com.python.pydev.analysis/v2_indexcache
+t01|1695439570617499808|/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t01.py
+t03|1695439570617581558|/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t03.py
+t02|1695439570617545558|/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t02.py
+t04|1695439570617626516|/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t04.py
 -- END DISKCACHE
 -- START DICTIONARY
-2
+8
 2=t01
-1=/Users/august/eclipse/ws/roym2983_l01/src/t01.py
+6=t03
+4=t02
+7=/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t04.py
+8=t04
+1=/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t01.py
+3=/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t02.py
+5=/Users/august/eclipse/ws/CP104-work/roym2983_l01/src/t03.py
 -- END DICTIONARY
 -- START TREE 1
 1
-mai|1|main!1^15#5*18@
+mai|4|main!1^15#5*18@main!3^15#5*34@main!5^15#5*50@main!7^15#5*66@
 -- END TREE
 -- START TREE 2
 0
