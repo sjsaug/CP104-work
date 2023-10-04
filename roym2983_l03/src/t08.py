@@ -17,11 +17,10 @@ def main():
     amt_gravel = float(input("Enter amount of gravel (m^3): "))
     amt_sand = float(input("Enter amount of sand (m^3): "))
     total = amt_dirt + amt_gravel + amt_sand
-    cm = "Cubic Metres"
-    print(f"{'Material':<20} {cm:>20}")
-    print(f"{'Dirt':<20} {amt_dirt:>20.1f}")
-    print(f"{'Gravel':<20} {amt_gravel:>20.1f}")
-    print(f"{'Sand':<20} {amt_sand:>20.1f}")
-    print(f"{'Total':<20} {total:>20.1f}")
+    print("Material     Cubic Metres")
+    print(f"Dirt         {amt_dirt:>5.1f}")
+    print(f"Gravel       {amt_gravel:>5.1f}")
+    print(f"Sand         {amt_sand:>5.1f}")
+    print(f"Total        {total:>5.1f}")
 
 main()

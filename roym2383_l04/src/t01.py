@@ -2,20 +2,15 @@
 -------------------------------------------------------
 [program description]
 -------------------------------------------------------
-Author:  August
+Author:  August Roy McLaughlin
 ID:      169052983
 Email:   roym2983@mylaurier.ca
-__updated__ = "2023-09-11"
+__updated__ = "2023-10-03"
 -------------------------------------------------------
 """
 # Imports
+from functions import diameter
 
 # Constants
 
-def main():  
-    fahrenheit = int(input())
-    celcius = (fahrenheit - 32) * (5/9)
-    WATER = 32
-    print(int(celcius))
-
-main()
+diameter(2.5)
