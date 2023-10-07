@@ -5,12 +5,12 @@
 Author:  August Roy McLaughlin
 ID:      169052983
 Email:   roym2983@mylaurier.ca
-__updated__ = "2023-10-03"
+__updated__ = "2023-10-06"
 -------------------------------------------------------
 """
 # Imports
-from functions import diameter
-
+from functions import population
 # Constants
 
-diameter(2.5)
+pop = population(1000000, 80, 95, 212, 5)
+print(pop)
