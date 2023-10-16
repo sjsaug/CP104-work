@@ -9,7 +9,7 @@ __updated__ = "2023-10-15"
 -------------------------------------------------------
 """
 # Imports
-from functions import get_weight
+from functions import lawn_mow_time
 # Constants
 
-print(get_weight(5))
+print(lawn_mow_time(20.0, 50.0, 4.0))

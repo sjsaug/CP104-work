@@ -9,7 +9,7 @@ __updated__ = "2023-10-15"
 -------------------------------------------------------
 """
 # Imports
-from functions import get_weight
+from functions import falling_distance
 # Constants
 
-print(get_weight(5))
+print(falling_distance(15))

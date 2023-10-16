@@ -9,7 +9,7 @@ __updated__ = "2023-10-15"
 -------------------------------------------------------
 """
 # Imports
-from functions import get_weight
+from functions import footage_to_acres
 # Constants
 
-print(get_weight(5))
+print(footage_to_acres(100000.0))
