@@ -20,10 +20,14 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/august/Downloads/roym2983_l05.zip"/>
+			<item value="/Users/august/Downloads/roym2983_a03.zip"/>
 			<item value="/Users/august/Downloads/roym2983_a02.zip"/>
 			<item value="/Users/august/Downloads/roym2983_l04.zip"/>
 			<item value="/Users/august/Downloads/roym2983_l03.zip"/>
 			<item value="/Users/august/Downloads/roym2983_l02.zip"/>
 		</list>
+	</section>
+	<section name="NewWizardAction">
 	</section>
 </section>
