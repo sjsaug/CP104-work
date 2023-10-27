@@ -50,7 +50,7 @@ def draw_triangle(height, char):
     for i in range(1, height + 1):
         line = char * (2 * i - 1)
         print(line.rjust(height + i - 1))
-    return
+    return None
 
 def bottles_of_beer(n):
     """
@@ -67,7 +67,7 @@ def bottles_of_beer(n):
     for x in range(n, 0, -1):
         print(f"{x} bottles of beer on the wall, {x} bottles of beer.")
         print(f"Take one down, pass it around, {x} bottles of beer on the wall.")
-    return
+    return None
 
 def retirement(age, salary, increase):
     """
@@ -84,11 +84,48 @@ def retirement(age, salary, increase):
         None
     ------------------------------------------------------
     """
-    print(f"Age         Salary\n")
-    print(f"-------------------\n")
-    print(f"{age}         {salary}\n")
+    print('Age         Salary')
+    print('------------------')
+    print(f"{age}{salary:16,.2f}")
     for i in range(age + 1, 66):
-        new_salary = salary * (i * increase)
-        print(f"{i}         {new_salary}\n")
+        salary = salary * (1 + (increase/100))
+        print(f"{i}{salary:16,.2f}")
+    return None
 
-retirement(45, 40000, 2.0)
+    """
+    for i in range(1, n + 1):
+        if i == 1:
+            v1 = float(input('First value: '))
+        else:
+    """
+
+def statistics(n):
+    """
+    -------------------------------------------------------
+    Asks a user to enter n values, then calculates and returns
+    the minimum, maximum, total, and average of those values.
+    Use: minimum, maximum, total, average = statistics(n)
+    -------------------------------------------------------
+    Parameters:
+        n - number of values to process (int > 0)
+    Returns:
+        minimum - smallest of n values (float)
+        maximum - largest of n values (float)
+        total - total of n values (float)
+        average - average of n values (float)
+    ------------------------------------------------------
+    """
+
+    for i in range(1, n):
+        if i == 1:
+            minimum = float(input('First value: '))
+            maximum = minimum
+            total = minimum
+        value = float(input('Next value: '))
+        total += value
+        if value < minimum:
+            minimum = value
+        elif value > maximum:
+            maximum = value
+    average = total / n
+    return minimum, maximum, total, average
