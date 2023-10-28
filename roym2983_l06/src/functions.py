@@ -1,3 +1,17 @@
+"""
+-------------------------------------------------------
+[program description]
+-------------------------------------------------------
+Author:  August Roy McLaughlin
+ID:      169052983
+Email:   roym2983@mylaurier.ca
+__updated__ = "2023-10-27"
+-------------------------------------------------------
+"""
+# Imports
+from math import fabs
+# Constants
+
 def sum_even(num):
     """
     -------------------------------------------------------
@@ -14,7 +28,6 @@ def sum_even(num):
     for i in range(2, num + 1, 2):
         total += i
     return total
-
 
 def sum_odd(num):
     """
@@ -91,13 +104,6 @@ def retirement(age, salary, increase):
         salary = salary * (1 + (increase/100))
         print(f"{i}{salary:16,.2f}")
     return None
-
-    """
-    for i in range(1, n + 1):
-        if i == 1:
-            v1 = float(input('First value: '))
-        else:
-    """
 
 def statistics(n):
     """
