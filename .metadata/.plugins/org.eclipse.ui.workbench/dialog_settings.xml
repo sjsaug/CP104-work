@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="ImportExportAction">
-		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.Preferences"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ExternalProject"/>
 		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
 			<item value="org.eclipse.ui.Basic"/>
@@ -20,6 +20,8 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/august/Downloads/roym2983_m.zip"/>
+			<item value="/Users/august/Downloads/roym2983_l08.zip"/>
 			<item value="/Users/august/Downloads/roym2983_a04.zip"/>
 			<item value="/Users/august/Downloads/roym2983_l06.zip"/>
 			<item value="/Users/august/Downloads/roym2983_l05.zip"/>
@@ -31,5 +33,7 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileImportWizard">
 	</section>
 </section>
