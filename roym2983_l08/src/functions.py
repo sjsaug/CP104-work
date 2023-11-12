@@ -128,3 +128,29 @@ def list_sums(source1, source2):
     for i in range(len(source1)):
         target.append(source1[i] + source2[i])
     return target
+
+
+def symmetric_difference(source1, source2):
+    """
+    -------------------------------------------------------
+    Returns a list that is the symmetric difference of the contents
+    of source1 and source2.
+    Only elements that appear in one of source1 and source2, but not both,
+    appear once and only once in target.
+    Use: target = symmetric_difference(source1, source2)
+    -------------------------------------------------------
+    Parameters:
+        source1 - a list (list of *)
+        source2 - a list (list of *)
+    Returns:
+        target - the symmetric difference of source1 and source2 (list of *)
+    -------------------------------------------------------
+    """
+    target = []
+    for i in range(len(source1)):
+        if source1[i] not in source2:
+            target.append(source1[i])
+    for i in range(len(source2)):
+        if source2[i] not in source1:
+            target.append(source2[i])
+    return target

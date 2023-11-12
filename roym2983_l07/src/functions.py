@@ -140,21 +140,21 @@ def employee_payroll():
         average - average employee net wages (float)
     ------------------------------------------------------
     """
-    total = 0
-    count = 0
+    TOTAL = 0
+    COUNT = 0
+    OVERTIME_HOURS = 40
+    OVERTIME_RATE = 1.5
+    TAX_RATE = 0.03625
     employee_id = int(input("Employee ID: "))
     while employee_id != 0:
         wage = float(input("Hourly wage rate: "))
         hours = float(input("Hours worked: "))
-        if hours > 40:
-            wage = wage * 1.5
-            salary = wage * hours
-            #salary = (wage * 40) + (wage * (hours - 40))
+        if hours > OVERTIME_HOURS:
+            salary = (wage * OVERTIME_HOURS) + ((wage * OVERTIME_RATE) * (hours - OVERTIME_HOURS))
         else:
             salary = wage * hours
-        salary = salary - (salary * 0.03625)
-        total += salary
-        count += 1
+        salary = salary - (salary * TAX_RATE)
+        TOTAL += salary
+        COUNT += 1
         employee_id = int(input("Enter employee ID (0 to quit): "))
-    average = (total / count)
-    return total, average
+    return TOTAL, TOTAL/COUNT if COUNT > 0 else 0
