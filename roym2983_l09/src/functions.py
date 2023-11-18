@@ -78,17 +78,20 @@ def validate_code(product_code):
         category - True if there are three upper-case characters, False otherwise
         digits - True if there are four digits, False otherwise
         qualifiers - True if starts with 1 upper-case letter, False otherwise
+        example : validate_code('BFG9000x7') -> (True, True, False)
     -------------------------------------------------------
     """
     category = False
     digits = False
     qualifiers = False
-    if product_code[:3].isupper():
-        category = True
-    if product_code[3:7].isdigit():
-        digits = True
-    if product_code[7:].isupper():
-        qualifiers = True
+
+    if len(product_code) >= 3:
+        category = product_code[:3].isupper()
+    if len(product_code) >= 7:
+        digits = product_code[3:7].isdigit()
+    if len(product_code) > 7:
+        qualifiers = product_code[7].isupper()
+        
     return category, digits, qualifiers
 
 
@@ -131,13 +134,13 @@ def text_analyze(txt):
     lowr = 0
     dgts = 0
     whtspc = 0
-    for i in range(len(txt)):
-        if txt[i].isupper():
+    for c in txt:
+        if c.isupper():
             uppr += 1
-        elif txt[i].islower():
+        elif c.islower():
             lowr += 1
-        elif txt[i].isdigit():
+        elif c.isdigit():
             dgts += 1
-        elif txt[i].isspace():
+        elif c.isspace():
             whtspc += 1
     return uppr, lowr, dgts, whtspc
