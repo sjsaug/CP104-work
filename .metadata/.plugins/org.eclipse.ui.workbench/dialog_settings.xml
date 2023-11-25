@@ -20,6 +20,7 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/august/Downloads/roym2983_a07.zip"/>
 			<item value="/Users/august/Downloads/roym2983_l09.zip"/>
 			<item value="/Users/august/Downloads/roym2983_a06.zip"/>
 			<item value="/Users/august/Downloads/roym2983_a05.zip"/>
