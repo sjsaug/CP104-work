@@ -1,0 +1,38 @@
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  August Roy McLaughlin
+ID:      169052983
+Email:   roym2983@mylaurier.ca
+Version: 2023-11-25
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+add_spaces("StopAndSmellTheRoses.") = Stop and smell the roses.
+add_spaces("CalcIsKillingMe.") = Calc is killing me.
+add_spaces("OneTwoThreeFour.") = One two three four.
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+pluralize("city") = cities
+pluralize("student") = students
+pluralize("cat") = cats
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+common_end('running', 'jumping') = ing
+common_end('lies', 'ties') = ies
+common_end('her', 'flyer') = er
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+valid_isbn('978-3-12148410--0') = False
+valid_isbn('978-3-16-148410-0') = True
+valid_isbn('309-3-12-284829-0') = False
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+has_word_chain(['camel', 'leopard', 'dog', 'giraffe', 'elephant']) = True
+has_word_chain(['hello', 'opera', 'apron', 'nose', 'egg']) = True
+has_word_chain(['drink', 'kangaroo', 'odd', 'dane', 'money']) = False
+-------------------------------------------------------
