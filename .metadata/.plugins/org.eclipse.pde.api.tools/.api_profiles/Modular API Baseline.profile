@@ -1,303 +1,304 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <apiprofile location="target:/0/1694177663710.target" name="Modular API Baseline" version="2">
-    <apicomponent id="org.eclipse.help.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.help.ui_4.5.0.v20230317-0802.jar" version="4.5.0"/>
-    <apicomponent id="org.eclipse.equinox.app" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.app_1.6.200.v20220720-2012.jar" version="1.6.200"/>
+    <apicomponent id="org.eclipse.jdt.junit.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit.runtime_3.7.200.v20230627-0107.jar" version="3.7.200"/>
+    <apicomponent id="org.eclipse.emf.ecore" location="/Users/august/.p2/pool/plugins/org.eclipse.emf.ecore_2.35.0.v20230829-0934.jar" version="2.35.0"/>
     <apicomponent id="org.eclipse.osgi.services" location="/Users/august/.p2/pool/plugins/org.eclipse.osgi.services_3.11.100.v20221006-1531.jar" version="3.11.100"/>
     <apicomponent id="org.eclipse.jetty.io" location="/Users/august/.p2/pool/plugins/org.eclipse.jetty.io_10.0.15.jar" version="10.0.15"/>
-    <apicomponent id="org.eclipse.ui.forms" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.forms_3.12.0.v20230317-0802.jar" version="3.12.0"/>
-    <apicomponent id="org.eclipse.core.expressions" location="/Users/august/.p2/pool/plugins/org.eclipse.core.expressions_3.9.0.v20230317-0901.jar" version="3.9.0"/>
-    <apicomponent id="org.eclipse.compare.core" location="/Users/august/.p2/pool/plugins/org.eclipse.compare.core_3.8.0.v20230517-1315.jar" version="3.8.0"/>
-    <apicomponent id="org.eclipse.ltk.ui.refactoring" location="/Users/august/.p2/pool/plugins/org.eclipse.ltk.ui.refactoring_3.13.0.v20230325-0319.jar" version="3.13.0"/>
+    <apicomponent id="org.eclipse.ltk.ui.refactoring" location="/Users/august/.p2/pool/plugins/org.eclipse.ltk.ui.refactoring_3.13.100.v20230728-0612.jar" version="3.13.100"/>
+    <apicomponent id="junit-platform-suite-commons" location="/Users/august/.p2/pool/plugins/junit-platform-suite-commons_1.10.0.jar" version="1.10.0"/>
+    <apicomponent id="org.eclipse.help.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.help.ui_4.6.0.v20230726-0617.jar" version="4.6.0"/>
+    <apicomponent id="org.eclipse.e4.core.services" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.services_2.4.100.v20230708-0809.jar" version="2.4.100"/>
     <apicomponent id="org.w3c.dom.events" location="/Users/august/.p2/pool/plugins/org.w3c.dom.events_3.0.0.draft20060413_v201105210656.jar" version="3.0.0"/>
     <apicomponent id="org.eclipse.equinox.http.servlet" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.http.servlet_1.7.400.v20221006-1531.jar" version="1.7.400"/>
-    <apicomponent id="org.eclipse.jdt" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt_3.19.100.v20230605-0440.jar" version="3.19.100"/>
-    <apicomponent id="bcpg" location="/Users/august/.p2/pool/plugins/bcpg_1.73.0.jar" version="1.73.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.engine" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.engine_2.8.0.v20230509-0902.jar" version="2.8.0"/>
-    <apicomponent id="org.eclipse.ui.navigator" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.navigator_3.12.0.v20230329-1313.jar" version="3.12.0"/>
-    <apicomponent id="org.eclipse.jdt.launching.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.launching.macosx_3.6.0.v20230328-1614.jar" version="3.6.0"/>
-    <apicomponent id="org.eclipse.ui.trace" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.trace_1.3.0.v20230515-0022.jar" version="1.3.0"/>
+    <apicomponent id="org.eclipse.text" location="/Users/august/.p2/pool/plugins/org.eclipse.text_3.13.100.v20230801-1334.jar" version="3.13.100"/>
+    <apicomponent id="org.eclipse.jdt" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt_3.19.200.v20230903-1000.jar" version="3.19.200"/>
+    <apicomponent id="org.eclipse.urischeme" location="/Users/august/.p2/pool/plugins/org.eclipse.urischeme_1.3.100.v20230727-0604.jar" version="1.3.100"/>
+    <apicomponent id="bcpg" location="/Users/august/.p2/pool/plugins/bcpg_1.76.0.jar" version="1.76.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.publisher" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.publisher_1.8.100.v20230630-1506.jar" version="1.8.100"/>
     <apicomponent id="org.osgi.service.repository" location="/Users/august/.p2/pool/plugins/org.osgi.service.repository_1.1.0.201505202024.jar" version="1.1.0"/>
-    <apicomponent id="org.eclipse.e4.ui.css.swt.theme" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.css.swt.theme_0.14.0.v20230501-1533.jar" version="0.14.0"/>
-    <apicomponent id="org.eclipse.osgi" location="/Users/august/.p2/pool/plugins/org.eclipse.osgi_3.18.400.v20230509-2241.jar" version="3.18.400"/>
-    <apicomponent id="org.eclipse.ui.cheatsheets" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.cheatsheets_3.8.0.v20230317-0802.jar" version="3.8.0"/>
+    <apicomponent id="org.eclipse.ui.navigator" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.navigator_3.12.100.v20230821-1342.jar" version="3.12.100"/>
+    <apicomponent id="org.eclipse.ui.intro.quicklinks" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.intro.quicklinks_1.2.100.v20230726-0617.jar" version="1.2.100"/>
     <apicomponent id="org.osgi.util.position" location="/Users/august/.p2/pool/plugins/org.osgi.util.position_1.0.1.201505202026.jar" version="1.0.1"/>
-    <apicomponent id="org.eclipse.ui.net" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.net_1.5.0.v20230317-0901.jar" version="1.5.0"/>
-    <apicomponent id="junit-platform-suite-api" location="/Users/august/.p2/pool/plugins/junit-platform-suite-api_1.9.3.jar" version="1.9.3"/>
-    <apicomponent id="junit-platform-engine" location="/Users/august/.p2/pool/plugins/junit-platform-engine_1.9.3.jar" version="1.9.3"/>
-    <apicomponent id="org.eclipse.ui.genericeditor" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.genericeditor_1.3.0.v20230516-1137.jar" version="1.3.0"/>
+    <apicomponent id="org.eclipse.help.base" location="/Users/august/.p2/pool/plugins/org.eclipse.help.base_4.4.100.v20230903-1000.jar" version="4.4.100"/>
+    <apicomponent id="org.eclipse.jface" location="/Users/august/.p2/pool/plugins/org.eclipse.jface_3.31.0.v20230821-1552.jar" version="3.31.0"/>
+    <apicomponent id="org.eclipse.pde.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.runtime_3.8.100.v20230728-0611.jar" version="3.8.100"/>
     <apicomponent id="org.apache.commons.logging" location="/Users/august/.p2/pool/plugins/org.apache.commons.logging_1.2.0.v20180409-1502.jar" version="1.2.0"/>
-    <apicomponent id="org.eclipse.pde.junit.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.junit.runtime_3.7.0.v20230515-0022.jar" version="3.7.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.garbagecollector" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.garbagecollector_1.3.0.v20230322-1009.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.jsch.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jsch.ui_1.5.0.v20230317-0901.jar" version="1.5.0"/>
-    <apicomponent id="com.ibm.icu" location="/Users/august/.p2/pool/plugins/com.ibm.icu_73.1.0.jar" version="73.1.0"/>
-    <apicomponent id="org.eclipse.pde.ds.annotations" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ds.annotations_1.3.0.v20230331-0919.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.ui.views.log" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.views.log_1.4.0.v20230418-0745.jar" version="1.4.0"/>
+    <apicomponent id="org.eclipse.core.net" location="/Users/august/.p2/pool/plugins/org.eclipse.core.net_1.5.100.v20230630-1232.jar" version="1.5.100"/>
+    <apicomponent id="com.ibm.icu" location="/Users/august/.p2/pool/plugins/com.ibm.icu_73.2.0.jar" version="73.2.0"/>
+    <apicomponent id="org.eclipse.e4.core.di.extensions.supplier" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.di.extensions.supplier_0.17.100.v20230630-1232.jar" version="0.17.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.garbagecollector" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.garbagecollector_1.3.100.v20230630-1506.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.jdt.debug.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.debug.ui_3.13.100.v20230809-1849.jar" version="3.13.100"/>
     <apicomponent id="org.apache.aries.spifly.dynamic.bundle" location="/Users/august/.p2/pool/plugins/org.apache.aries.spifly.dynamic.bundle_1.3.6.jar" version="1.3.6"/>
+    <apicomponent id="org.apache.lucene.analysis-smartcn" location="/Users/august/.p2/pool/plugins/org.apache.lucene.analysis-smartcn_9.7.0.v20230703-0758.jar" version="9.7.0"/>
     <apicomponent id="org.osgi.service.device" location="/Users/august/.p2/pool/plugins/org.osgi.service.device_1.1.1.202109301733.jar" version="1.1.1"/>
-    <apicomponent id="org.eclipse.ui.browser" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.browser_3.8.0.v20230329-1440.jar" version="3.8.0"/>
-    <apicomponent id="org.eclipse.text" location="/Users/august/.p2/pool/plugins/org.eclipse.text_3.13.0.v20230316-1200.jar" version="3.13.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.ui.sdk.scheduler" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui.sdk.scheduler_1.6.0.v20230425-1532.jar" version="1.6.0"/>
-    <apicomponent id="org.eclipse.ui.monitoring" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.monitoring_1.3.0.v20230317-0802.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.pde.ui.templates" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ui.templates_3.8.0.v20230515-0022.jar" version="3.8.0"/>
-    <apicomponent id="org.eclipse.jdt.apt.pluggable.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.apt.pluggable.core_1.4.0.v20230323-1537.jar" version="1.4.0"/>
+    <apicomponent id="org.eclipse.emf.ecore.xmi" location="/Users/august/.p2/pool/plugins/org.eclipse.emf.ecore.xmi_2.35.0.v20230801-1141.jar" version="2.35.0"/>
+    <apicomponent id="org.eclipse.ui.navigator.resources" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.navigator.resources_3.9.100.v20230821-1342.jar" version="3.9.100"/>
+    <apicomponent id="org.eclipse.jsch.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jsch.core_1.5.100.v20230726-0617.jar" version="1.5.100"/>
+    <apicomponent id="org.jdom" location="/Users/august/.p2/pool/plugins/org.jdom_1.1.3.v20230812-1600.jar" version="1.1.3"/>
+    <apicomponent id="org.eclipse.ui.ide" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.ide_3.21.100.v20230825-1346.jar" version="3.21.100"/>
+    <apicomponent id="org.eclipse.jdt.core.compiler.batch" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.core.compiler.batch_3.35.0.v20230814-2020.jar" version="3.35.0"/>
+    <apicomponent id="junit-jupiter-engine" location="/Users/august/.p2/pool/plugins/junit-jupiter-engine_5.10.0.jar" version="5.10.0"/>
     <apicomponent id="org.eclipse.ecf.identity" location="/Users/august/.p2/pool/plugins/org.eclipse.ecf.identity_3.10.0.v20230422-0242.jar" version="3.10.0"/>
-    <apicomponent id="org.eclipse.ui.intro.quicklinks" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.intro.quicklinks_1.2.0.v20230429-1610.jar" version="1.2.0"/>
-    <apicomponent id="junit-platform-commons" location="/Users/august/.p2/pool/plugins/junit-platform-commons_1.9.3.jar" version="1.9.3"/>
-    <apicomponent id="org.eclipse.core.jobs" location="/Users/august/.p2/pool/plugins/org.eclipse.core.jobs_3.14.0.v20230317-0901.jar" version="3.14.0"/>
-    <apicomponent id="org.eclipse.text.quicksearch" location="/Users/august/.p2/pool/plugins/org.eclipse.text.quicksearch_1.2.100.v20230427-1010.jar" version="1.2.100"/>
-    <apicomponent id="org.eclipse.pde.build" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.build_3.12.0.v20230515-0022" version="3.12.0"/>
-    <apicomponent id="org.eclipse.pde.ds.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ds.ui_1.3.0.v20230515-0022.jar" version="1.3.0"/>
+    <apicomponent id="org.eclipse.e4.emf.xpath" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.emf.xpath_0.4.100.v20230801-1255.jar" version="0.4.100"/>
+    <apicomponent id="org.eclipse.pde.launching" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.launching_3.11.100.v20230812-1744.jar" version="3.11.100"/>
+    <apicomponent id="org.eclipse.pde.ui.templates" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ui.templates_3.8.100.v20230728-0611.jar" version="3.8.100"/>
+    <apicomponent id="org.eclipse.jdt.debug" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.debug_3.21.100.v20230728-0612" version="3.21.100"/>
+    <apicomponent id="org.eclipse.pde.ua.core" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ua.core_1.3.100.v20230728-0611.jar" version="1.3.100"/>
     <apicomponent id="org.apache.felix.gogo.command" location="/Users/august/.p2/pool/plugins/org.apache.felix.gogo.command_1.1.2.jar" version="1.1.2"/>
-    <apicomponent id="org.eclipse.e4.core.di.extensions.supplier" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.di.extensions.supplier_0.17.0.v20230429-1914.jar" version="0.17.0"/>
-    <apicomponent id="org.eclipse.jface" location="/Users/august/.p2/pool/plugins/org.eclipse.jface_3.30.0.v20230509-0720.jar" version="3.30.0"/>
-    <apicomponent id="org.eclipse.equinox.security.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.security.macosx_1.101.400.v20210427-1958.jar" version="1.101.400"/>
-    <apicomponent id="org.eclipse.jdt.apt.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.apt.core_3.8.0.v20230413-1556.jar" version="3.8.0"/>
-    <apicomponent id="org.eclipse.e4.core.di" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.di_1.9.0.v20230429-1914.jar" version="1.9.0"/>
-    <apicomponent id="org.eclipse.pde.ua.core" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ua.core_1.3.0.v20230515-0022.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.jdt.debug.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.debug.ui_3.13.0.v20230421-0438.jar" version="3.13.0"/>
+    <apicomponent id="org.eclipse.ui.views.log" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.views.log_1.4.100.v20230727-0604.jar" version="1.4.100"/>
+    <apicomponent id="org.eclipse.emf.common" location="/Users/august/.p2/pool/plugins/org.eclipse.emf.common_2.29.0.v20230810-0713.jar" version="2.29.0"/>
+    <apicomponent id="junit-jupiter-migrationsupport" location="/Users/august/.p2/pool/plugins/junit-jupiter-migrationsupport_5.10.0.jar" version="5.10.0"/>
+    <apicomponent id="org.eclipse.equinox.frameworkadmin" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.frameworkadmin_2.2.200.v20230630-1506.jar" version="2.2.200"/>
+    <apicomponent id="org.hamcrest" location="/Users/august/.p2/pool/plugins/org.hamcrest_2.2.0.jar" version="2.2.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.metadata.repository" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.metadata.repository_1.5.100.v20230630-1506.jar" version="1.5.100"/>
     <apicomponent id="org.eclipse.jdt.annotation" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.annotation_1.2.100.v20220826-1026.jar" version="1.2.100"/>
     <apicomponent id="org.eclipse.jdt.annotation" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.annotation_2.2.700.v20220826-1026.jar" version="2.2.700"/>
     <apicomponent id="org.osgi.service.metatype.annotations" location="/Users/august/.p2/pool/plugins/org.osgi.service.metatype.annotations_1.4.1.202109301733.jar" version="1.4.1"/>
-    <apicomponent id="org.eclipse.ui.views.properties.tabbed" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.views.properties.tabbed_3.10.0.v20230317-0802.jar" version="3.10.0"/>
-    <apicomponent id="org.eclipse.help.base" location="/Users/august/.p2/pool/plugins/org.eclipse.help.base_4.4.0.v20230605-0440.jar" version="4.4.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.updatechecker" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.updatechecker_1.4.0.v20230330-0930.jar" version="1.4.0"/>
-    <apicomponent id="org.eclipse.ui.intro.universal" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.intro.universal_3.5.0.v20230317-0802.jar" version="3.5.0"/>
-    <apicomponent id="org.eclipse.ui.themes" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.themes_1.2.2200.v20230220-0932" version="1.2.2200"/>
-    <apicomponent id="org.eclipse.rcp" location="/Users/august/.p2/pool/plugins/org.eclipse.rcp_4.28.0.v20230605-0440.jar" version="4.28.0"/>
-    <apicomponent id="org.eclipse.ui.workbench" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.workbench_3.129.0.v20230525-0648.jar" version="3.129.0"/>
+    <apicomponent id="org.eclipse.e4.ui.workbench3" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench3_0.17.100.v20230727-0604.jar" version="0.17.100"/>
+    <apicomponent id="org.eclipse.e4.ui.di" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.di_1.5.100.v20230630-1554.jar" version="1.5.100"/>
     <apicomponent id="org.osgi.service.upnp" location="/Users/august/.p2/pool/plugins/org.osgi.service.upnp_1.2.1.202109301733.jar" version="1.2.1"/>
-    <apicomponent id="org.eclipse.jface.notifications" location="/Users/august/.p2/pool/plugins/org.eclipse.jface.notifications_0.6.0.v20230317-0802.jar" version="0.6.0"/>
-    <apicomponent id="org.eclipse.ui.navigator.resources" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.navigator.resources_3.9.0.v20230317-0802.jar" version="3.9.0"/>
-    <apicomponent id="org.eclipse.jdt.apt.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.apt.ui_3.8.0.v20230323-1537.jar" version="3.8.0"/>
+    <apicomponent id="org.eclipse.core.commands" location="/Users/august/.p2/pool/plugins/org.eclipse.core.commands_3.11.100.v20230708-0916.jar" version="3.11.100"/>
+    <apicomponent id="org.eclipse.update.configurator" location="/Users/august/.p2/pool/plugins/org.eclipse.update.configurator_3.5.100.v20230726-0617.jar" version="3.5.100"/>
+    <apicomponent id="org.eclipse.ant.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.ant.ui_3.9.100.v20230726-0617.jar" version="3.9.100"/>
+    <apicomponent id="org.eclipse.jdt.core.manipulation" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.core.manipulation_1.19.100.v20230811-2104.jar" version="1.19.100"/>
+    <apicomponent id="org.eclipse.debug.core" location="/Users/august/.p2/pool/plugins/org.eclipse.debug.core_3.21.100.v20230731-1425.jar" version="3.21.100"/>
     <apicomponent id="org.osgi.util.promise" location="/Users/august/.p2/pool/plugins/org.osgi.util.promise_1.3.0.202212101352.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.equinox.security.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.security.ui_1.3.400.v20221007-1815.jar" version="1.3.400"/>
-    <apicomponent id="org.eclipse.core.externaltools" location="/Users/august/.p2/pool/plugins/org.eclipse.core.externaltools_1.3.0.v20230317-0802.jar" version="1.3.0"/>
+    <apicomponent id="org.eclipse.pde.ds.core" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ds.core_1.3.100.v20230814-2100.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.jdt.launching.ui.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.launching.ui.macosx_1.4.100.v20230630-1429.jar" version="1.4.100"/>
+    <apicomponent id="org.eclipse.e4.ui.workbench.renderers.swt.cocoa" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.renderers.swt.cocoa_0.14.100.v20230630-1554.jar" version="0.14.100"/>
+    <apicomponent id="slf4j.simple" location="/Users/august/.p2/pool/plugins/slf4j.simple_2.0.7.jar" version="2.0.7"/>
     <apicomponent id="org.objectweb.asm" location="/Users/august/.p2/pool/plugins/org.objectweb.asm_9.5.0.jar" version="9.5.0"/>
-    <apicomponent id="org.eclipse.core.commands" location="/Users/august/.p2/pool/plugins/org.eclipse.core.commands_3.11.0.v20230317-0802.jar" version="3.11.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.repository" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.repository_2.7.0.v20230507-1427.jar" version="2.7.0"/>
-    <apicomponent id="org.eclipse.core.databinding" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding_1.13.0.v20230501-1533.jar" version="1.13.0"/>
-    <apicomponent id="org.eclipse.help" location="/Users/august/.p2/pool/plugins/org.eclipse.help_3.10.0.v20230317-0802.jar" version="3.10.0"/>
-    <apicomponent id="org.eclipse.pde.api.tools.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.api.tools.ui_1.3.0.v20230331-2213.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.equinox.http.jetty" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.http.jetty_3.8.200.v20221109-0702.jar" version="3.8.200"/>
+    <apicomponent id="org.eclipse.jface.text" location="/Users/august/.p2/pool/plugins/org.eclipse.jface.text_3.24.100.v20230727-0604.jar" version="3.24.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.console" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.console_1.3.100.v20230630-1506.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.pde" location="/Users/august/.p2/pool/plugins/org.eclipse.pde_3.13.2400.v20230903-1000.jar" version="3.13.2400"/>
+    <apicomponent id="junit-platform-runner" location="/Users/august/.p2/pool/plugins/junit-platform-runner_1.10.0.jar" version="1.10.0"/>
+    <apicomponent id="org.apache.lucene.analysis-common" location="/Users/august/.p2/pool/plugins/org.apache.lucene.analysis-common_9.7.0.v20230703-0758.jar" version="9.7.0"/>
+    <apicomponent id="org.eclipse.e4.ui.css.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.css.swt_0.15.100.v20230727-0604.jar" version="0.15.100"/>
+    <apicomponent id="org.eclipse.e4.ui.css.core" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.css.core_0.14.100.v20230727-0604.jar" version="0.14.100"/>
+    <apicomponent id="org.eclipse.e4.ui.workbench.renderers.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.renderers.swt_0.16.100.v20230801-1255.jar" version="0.16.100"/>
     <apicomponent id="jakarta.annotation-api" location="/Users/august/.p2/pool/plugins/jakarta.annotation-api_1.3.5.jar" version="1.3.5"/>
-    <apicomponent id="org.eclipse.equinox.p2.ui.sdk" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui.sdk_1.3.0.v20230507-1427.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.metadata.repository" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.metadata.repository_1.5.0.v20230415-1327.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.team.genericeditor.diff.extension" location="/Users/august/.p2/pool/plugins/org.eclipse.team.genericeditor.diff.extension_1.2.0.v20230317-0901.jar" version="1.2.0"/>
+    <apicomponent id="org.eclipse.ui.trace" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.trace_1.3.100.v20230728-0611.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.jdt.launching" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.launching_3.20.100.v20230814-1810.jar" version="3.20.100"/>
+    <apicomponent id="org.eclipse.ui.workbench" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.workbench_3.130.0.v20230822-0911.jar" version="3.130.0"/>
+    <apicomponent id="junit-jupiter-api" location="/Users/august/.p2/pool/plugins/junit-jupiter-api_5.10.0.jar" version="5.10.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.director.app" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.director.app_1.3.100.v20230630-1506.jar" version="1.3.100"/>
     <apicomponent id="org.osgi.annotation.bundle" location="/Users/august/.p2/pool/plugins/org.osgi.annotation.bundle_2.0.0.202202082230.jar" version="2.0.0"/>
-    <apicomponent id="org.apache.lucene.core" location="/Users/august/.p2/pool/plugins/org.apache.lucene.core_9.4.2.v20221211-0752.jar" version="9.4.2"/>
+    <apicomponent id="org.eclipse.equinox.p2.metadata" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.metadata_2.7.100.v20230630-1506.jar" version="2.7.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.repository.tools" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.repository.tools_2.4.100.v20230630-1506.jar" version="2.4.100"/>
     <apicomponent id="org.eclipse.pde.api.tools.annotations" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.api.tools.annotations_1.2.0.v20230128-1746.jar" version="1.2.0"/>
-    <apicomponent id="org.eclipse.e4.ui.ide" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.ide_3.17.0.v20230317-0802.jar" version="3.17.0"/>
-    <apicomponent id="org.eclipse.swt.cocoa.macosx.aarch64" location="/Users/august/.p2/pool/plugins/org.eclipse.swt.cocoa.macosx.aarch64_3.124.0.v20230523-1044.jar" version="3.124.0"/>
-    <apicomponent id="org.eclipse.ant.launching" location="/Users/august/.p2/pool/plugins/org.eclipse.ant.launching_1.4.0.v20230329-1001.jar" version="1.4.0"/>
+    <apicomponent id="org.eclipse.team.core" location="/Users/august/.p2/pool/plugins/org.eclipse.team.core_3.10.100.v20230726-0617.jar" version="3.10.100"/>
     <apicomponent id="org.apiguardian.api" location="/Users/august/.p2/pool/plugins/org.apiguardian.api_1.1.2.jar" version="1.1.2"/>
-    <apicomponent id="org.jdom" location="/Users/august/.p2/pool/plugins/org.jdom_1.1.1.v201101151400.jar" version="1.1.1"/>
     <apicomponent id="org.eclipse.equinox.launcher.cocoa.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.launcher.cocoa.macosx_1.2.700.v20221108-1024" version="1.2.700"/>
-    <apicomponent id="org.eclipse.e4.ui.workbench.renderers.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.renderers.swt_0.16.0.v20230525-0648.jar" version="0.16.0"/>
     <apicomponent id="org.w3c.css.sac" location="/Users/august/.p2/pool/plugins/org.w3c.css.sac_1.3.1.v200903091627.jar" version="1.3.1"/>
+    <apicomponent id="org.eclipse.e4.ui.bindings" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.bindings_0.14.100.v20230630-1554.jar" version="0.14.100"/>
     <apicomponent id="org.eclipse.emf.ecore.change" location="/Users/august/.p2/pool/plugins/org.eclipse.emf.ecore.change_2.15.0.v20230211-1150.jar" version="2.15.0"/>
+    <apicomponent id="org.eclipse.ui.intro" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.intro_3.7.100.v20230726-0617.jar" version="3.7.100"/>
     <apicomponent id="org.eclipse.jetty.security" location="/Users/august/.p2/pool/plugins/org.eclipse.jetty.security_10.0.15.jar" version="10.0.15"/>
+    <apicomponent id="org.eclipse.rcp" location="/Users/august/.p2/pool/plugins/org.eclipse.rcp_4.29.0.v20230903-1000.jar" version="4.29.0"/>
+    <apicomponent id="org.eclipse.e4.ui.ide" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.ide_3.17.100.v20230727-0604.jar" version="3.17.100"/>
     <apicomponent id="org.apache.batik.constants" location="/Users/august/.p2/pool/plugins/org.apache.batik.constants_1.16.0.v20221027-0840.jar" version="1.16.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.touchpoint.eclipse" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.touchpoint.eclipse_2.4.0.v20230330-0930.jar" version="2.4.0"/>
     <apicomponent id="org.eclipse.e4.core.di.extensions" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.di.extensions_0.18.0.v20230429-1914.jar" version="0.18.0"/>
+    <apicomponent id="org.eclipse.equinox.launcher" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.launcher_1.6.500.v20230717-2134.jar" version="1.6.500"/>
     <apicomponent id="org.eclipse.jetty.servlet" location="/Users/august/.p2/pool/plugins/org.eclipse.jetty.servlet_10.0.15.jar" version="10.0.15"/>
-    <apicomponent id="org.eclipse.equinox.launcher" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar" version="1.6.400"/>
-    <apicomponent id="org.eclipse.debug.core" location="/Users/august/.p2/pool/plugins/org.eclipse.debug.core_3.21.0.v20230508-1538.jar" version="3.21.0"/>
-    <apicomponent id="org.opentest4j" location="/Users/august/.p2/pool/plugins/org.opentest4j_1.2.0.jar" version="1.2.0"/>
-    <apicomponent id="org.eclipse.e4.emf.xpath" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.emf.xpath_0.4.0.v20230317-0802.jar" version="0.4.0"/>
-    <apicomponent id="junit-jupiter-params" location="/Users/august/.p2/pool/plugins/junit-jupiter-params_5.9.3.jar" version="5.9.3"/>
-    <apicomponent id="org.apache.commons.commons-io" location="/Users/august/.p2/pool/plugins/org.apache.commons.commons-io_2.12.0.jar" version="2.12.0"/>
-    <apicomponent id="com.sun.jna" location="/Users/august/.p2/pool/plugins/com.sun.jna_5.13.0.jar" version="5.13.0"/>
+    <apicomponent id="org.opentest4j" location="/Users/august/.p2/pool/plugins/org.opentest4j_1.3.0.jar" version="1.3.0"/>
+    <apicomponent id="junit-vintage-engine" location="/Users/august/.p2/pool/plugins/junit-vintage-engine_5.10.0.jar" version="5.10.0"/>
+    <apicomponent id="org.eclipse.jdt.junit.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit.core_3.12.100.v20230811-1614.jar" version="3.12.100"/>
+    <apicomponent id="org.apache.commons.commons-io" location="/Users/august/.p2/pool/plugins/org.apache.commons.commons-io_2.13.0.jar" version="2.13.0"/>
+    <apicomponent id="org.eclipse.debug.ui.launchview" location="/Users/august/.p2/pool/plugins/org.eclipse.debug.ui.launchview_1.1.100.v20230726-0617.jar" version="1.1.100"/>
+    <apicomponent id="org.eclipse.e4.core.contexts" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.contexts_1.12.100.v20230725-1354.jar" version="1.12.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.operations" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.operations_2.7.100.v20230630-1506.jar" version="2.7.100"/>
+    <apicomponent id="org.eclipse.jface.databinding" location="/Users/august/.p2/pool/plugins/org.eclipse.jface.databinding_1.15.100.v20230708-0916.jar" version="1.15.100"/>
+    <apicomponent id="org.eclipse.e4.core.di" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.di_1.9.100.v20230721-1753.jar" version="1.9.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.ui.sdk" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui.sdk_1.3.100.v20230728-2010.jar" version="1.3.100"/>
     <apicomponent id="org.osgi.service.metatype" location="/Users/august/.p2/pool/plugins/org.osgi.service.metatype_1.4.1.202109301733.jar" version="1.4.1"/>
-    <apicomponent id="org.eclipse.e4.core.di.annotations" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.di.annotations_1.8.0.v20230429-1914.jar" version="1.8.0"/>
-    <apicomponent id="org.eclipse.e4.ui.workbench.addons.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.addons.swt_1.5.0.v20230501-1823.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui_2.8.0.v20230510-1208.jar" version="2.8.0"/>
-    <apicomponent id="org.eclipse.pde.ua.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ua.ui_1.3.0.v20230515-0022.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.updatesite" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.updatesite_1.3.0.v20230330-1254.jar" version="1.3.0"/>
+    <apicomponent id="org.eclipse.ui.workbench.texteditor" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.workbench.texteditor_3.17.100.v20230821-0745.jar" version="3.17.100"/>
+    <apicomponent id="org.eclipse.swt.cocoa.macosx.aarch64" location="/Users/august/.p2/pool/plugins/org.eclipse.swt.cocoa.macosx.aarch64_3.124.100.v20230825-1346.jar" version="3.124.100"/>
+    <apicomponent id="org.eclipse.jdt.apt.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.apt.ui_3.8.100.v20230726-1449.jar" version="3.8.100"/>
+    <apicomponent id="org.eclipse.core.databinding.beans" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.10.100.v20230708-0916.jar" version="1.10.100"/>
+    <apicomponent id="org.junit" location="/Users/august/.p2/pool/plugins/org.junit_4.13.2.v20230809-1000.jar" version="4.13.2"/>
     <apicomponent id="org.sat4j.pb" location="/Users/august/.p2/pool/plugins/org.sat4j.pb_2.3.6.v20201214.jar" version="2.3.6"/>
-    <apicomponent id="org.eclipse.urischeme" location="/Users/august/.p2/pool/plugins/org.eclipse.urischeme_1.3.0.v20230317-0802.jar" version="1.3.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.transport.ecf" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.transport.ecf_1.4.100.v20230630-1506.jar" version="1.4.100"/>
+    <apicomponent id="org.eclipse.platform" location="/Users/august/.p2/pool/plugins/org.eclipse.platform_4.29.0.v20230903-1000" version="4.29.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.directorywatcher" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.directorywatcher_1.4.100.v20230630-1506.jar" version="1.4.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.core" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.core_2.10.100.v20230814-2013.jar" version="2.10.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.extensionlocation" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.extensionlocation_1.5.100.v20230630-1506.jar" version="1.5.100"/>
     <apicomponent id="org.osgi.util.xml" location="/Users/august/.p2/pool/plugins/org.osgi.util.xml_1.0.2.202109301733.jar" version="1.0.2"/>
-    <apicomponent id="org.eclipse.ui.externaltools" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.externaltools_3.6.0.v20230317-0802.jar" version="3.6.0"/>
+    <apicomponent id="org.eclipse.core.expressions" location="/Users/august/.p2/pool/plugins/org.eclipse.core.expressions_3.9.100.v20230726-0617.jar" version="3.9.100"/>
     <apicomponent id="com.sun.jna.platform" location="/Users/august/.p2/pool/plugins/com.sun.jna.platform_5.13.0.jar" version="5.13.0"/>
-    <apicomponent id="org.eclipse.equinox.preferences" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.preferences_3.10.200.v20230120-0604.jar" version="3.10.200"/>
+    <apicomponent id="org.eclipse.equinox.p2.ui.sdk.scheduler" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui.sdk.scheduler_1.6.100.v20230630-1506.jar" version="1.6.100"/>
+    <apicomponent id="org.eclipse.equinox.simpleconfigurator.manipulator" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.simpleconfigurator.manipulator_2.2.200.v20230630-1506.jar" version="2.2.200"/>
     <apicomponent id="javax.el-api" location="/Users/august/.p2/pool/plugins/javax.el-api_3.0.3.jar" version="3.0.3"/>
     <apicomponent id="org.osgi.service.component.annotations" location="/Users/august/.p2/pool/plugins/org.osgi.service.component.annotations_1.5.1.202212101352.jar" version="1.5.1"/>
+    <apicomponent id="org.eclipse.help.webapp" location="/Users/august/.p2/pool/plugins/org.eclipse.help.webapp_3.11.100.v20230726-0617.jar" version="3.11.100"/>
     <apicomponent id="org.eclipse.equinox.jsp.jasper" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.jsp.jasper_1.1.700.v20220801-1124.jar" version="1.1.700"/>
-    <apicomponent id="org.eclipse.e4.ui.css.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.css.swt_0.15.0.v20230317-0802.jar" version="0.15.0"/>
-    <apicomponent id="org.eclipse.e4.ui.workbench" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench_1.15.0.v20230501-1823.jar" version="1.15.0"/>
     <apicomponent id="org.eclipse.ecf.filetransfer" location="/Users/august/.p2/pool/plugins/org.eclipse.ecf.filetransfer_5.1.102.v20210409-2301.jar" version="5.1.102"/>
-    <apicomponent id="org.eclipse.equinox.simpleconfigurator.manipulator" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.simpleconfigurator.manipulator_2.2.100.v20221117-1044.jar" version="2.2.100"/>
-    <apicomponent id="junit-platform-suite-engine" location="/Users/august/.p2/pool/plugins/junit-platform-suite-engine_1.9.3.jar" version="1.9.3"/>
-    <apicomponent id="org.eclipse.e4.ui.bindings" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.bindings_0.14.0.v20230501-1823.jar" version="0.14.0"/>
+    <apicomponent id="junit-platform-launcher" location="/Users/august/.p2/pool/plugins/junit-platform-launcher_1.10.0.jar" version="1.10.0"/>
+    <apicomponent id="org.eclipse.debug.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.debug.ui_3.18.100.v20230802-1257.jar" version="3.18.100"/>
     <apicomponent id="org.eclipse.ecf.provider.filetransfer.httpclient5" location="/Users/august/.p2/pool/plugins/org.eclipse.ecf.provider.filetransfer.httpclient5_1.1.0.v20230423-0417.jar" version="1.1.0"/>
+    <apicomponent id="org.eclipse.ui.themes" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.themes_1.2.2300.v20230807-1354" version="1.2.2300"/>
+    <apicomponent id="org.eclipse.ant.core" location="/Users/august/.p2/pool/plugins/org.eclipse.ant.core_3.7.100.v20230731-0828.jar" version="3.7.100"/>
+    <apicomponent id="org.eclipse.equinox.registry" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.300.v20230801-1826.jar" version="3.11.300"/>
+    <apicomponent id="org.eclipse.compare.core" location="/Users/august/.p2/pool/plugins/org.eclipse.compare.core_3.8.100.v20230726-0617.jar" version="3.8.100"/>
+    <apicomponent id="org.eclipse.e4.ui.workbench.addons.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.addons.swt_1.5.100.v20230727-0604.jar" version="1.5.100"/>
+    <apicomponent id="org.eclipse.jsch.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jsch.ui_1.5.100.v20230726-0617.jar" version="1.5.100"/>
+    <apicomponent id="org.eclipse.help" location="/Users/august/.p2/pool/plugins/org.eclipse.help_3.10.100.v20230726-0617.jar" version="3.10.100"/>
     <apicomponent id="org.eclipse.equinox.launcher.cocoa.macosx.aarch64" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.launcher.cocoa.macosx.aarch64_1.2.700.v20221108-1024" version="1.2.700"/>
+    <apicomponent id="org.eclipse.ui.intro.universal" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.intro.universal_3.5.100.v20230726-0617.jar" version="3.5.100"/>
+    <apicomponent id="org.eclipse.equinox.security" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.security_1.4.0.v20230630-1303.jar" version="1.4.0"/>
     <apicomponent id="org.osgi.service.cm" location="/Users/august/.p2/pool/plugins/org.osgi.service.cm_1.6.1.202109301733.jar" version="1.6.1"/>
     <apicomponent id="org.apache.httpcomponents.client5.httpclient5" location="/Users/august/.p2/pool/plugins/org.apache.httpcomponents.client5.httpclient5_5.1.3.v20221013-1742.jar" version="5.1.3"/>
-    <apicomponent id="biz.aQute.bnd.util" location="/Users/august/.p2/pool/plugins/biz.aQute.bnd.util_6.4.0.202211291949.jar" version="6.4.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.publisher" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.publisher_1.8.0.v20230330-1254.jar" version="1.8.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.jarprocessor" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.jarprocessor_1.3.0.v20230330-1254.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.jdt.launching.ui.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.launching.ui.macosx_1.4.0.v20230328-1614.jar" version="1.4.0"/>
-    <apicomponent id="org.eclipse.ltk.core.refactoring" location="/Users/august/.p2/pool/plugins/org.eclipse.ltk.core.refactoring_3.14.0.v20230323-1830.jar" version="3.14.0"/>
-    <apicomponent id="org.eclipse.core.resources" location="/Users/august/.p2/pool/plugins/org.eclipse.core.resources_3.19.0.v20230510-1240.jar" version="3.19.0"/>
-    <apicomponent id="org.eclipse.pde" location="/Users/august/.p2/pool/plugins/org.eclipse.pde_3.13.2300.v20230605-0440.jar" version="3.13.2300"/>
+    <apicomponent id="org.eclipse.e4.ui.workbench" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench_1.15.100.v20230819-0347.jar" version="1.15.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.director" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.director_2.6.100.v20230718-0609.jar" version="2.6.100"/>
+    <apicomponent id="org.eclipse.core.contenttype" location="/Users/august/.p2/pool/plugins/org.eclipse.core.contenttype_3.9.100.v20230630-1232.jar" version="3.9.100"/>
+    <apicomponent id="org.eclipse.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.ui_3.204.0.v20230821-1342.jar" version="3.204.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.artifact.repository" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.artifact.repository_1.5.100.v20230630-1506.jar" version="1.5.100"/>
     <apicomponent id="org.eclipse.equinox.console" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.console_1.4.500.v20211021-1418.jar" version="1.4.500"/>
+    <apicomponent id="org.eclipse.pde.api.tools" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.api.tools_1.3.100.v20230829-0851.jar" version="1.3.100"/>
     <apicomponent id="org.apache.felix.scr" location="/Users/august/.p2/pool/plugins/org.apache.felix.scr_2.2.6.jar" version="2.2.6"/>
-    <apicomponent id="org.eclipse.core.databinding.property" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding.property_1.10.0.v20230317-0802.jar" version="1.10.0"/>
-    <apicomponent id="org.eclipse.search" location="/Users/august/.p2/pool/plugins/org.eclipse.search_3.15.0.v20230427-2049.jar" version="3.15.0"/>
+    <apicomponent id="org.eclipse.core.externaltools" location="/Users/august/.p2/pool/plugins/org.eclipse.core.externaltools_1.3.100.v20230726-0617.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.e4.core.di.annotations" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.di.annotations_1.8.100.v20230617-1158.jar" version="1.8.100"/>
+    <apicomponent id="org.eclipse.core.databinding" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding_1.13.100.v20230708-0916.jar" version="1.13.100"/>
     <apicomponent id="org.eclipse.jetty.server" location="/Users/august/.p2/pool/plugins/org.eclipse.jetty.server_10.0.15.jar" version="10.0.15"/>
     <apicomponent id="org.eclipse.jetty.util" location="/Users/august/.p2/pool/plugins/org.eclipse.jetty.util_10.0.15.jar" version="10.0.15"/>
+    <apicomponent id="org.apache.lucene.core" location="/Users/august/.p2/pool/plugins/org.apache.lucene.core_9.7.0.v20230703-0758.jar" version="9.7.0"/>
     <apicomponent id="org.sat4j.core" location="/Users/august/.p2/pool/plugins/org.sat4j.core_2.3.6.v20201214.jar" version="2.3.6"/>
-    <apicomponent id="junit-platform-suite-commons" location="/Users/august/.p2/pool/plugins/junit-platform-suite-commons_1.9.3.jar" version="1.9.3"/>
-    <apicomponent id="org.eclipse.equinox.simpleconfigurator" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.simpleconfigurator_1.4.200.v20221111-1340.jar" version="1.4.200"/>
-    <apicomponent id="org.eclipse.ui.workbench.texteditor" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.workbench.texteditor_3.17.0.v20230316-1200.jar" version="3.17.0"/>
-    <apicomponent id="org.eclipse.e4.ui.workbench.renderers.swt.cocoa" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.renderers.swt.cocoa_0.14.0.v20230501-1533.jar" version="0.14.0"/>
-    <apicomponent id="org.hamcrest.core" location="/Users/august/.p2/pool/plugins/org.hamcrest.core_1.3.0.v20180420-1519.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.e4.ui.services" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.services_1.6.0.v20230501-1823.jar" version="1.6.0"/>
-    <apicomponent id="org.eclipse.jdt.junit.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit.runtime_3.7.100.v20230115-0919.jar" version="3.7.100"/>
+    <apicomponent id="org.eclipse.equinox.app" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.app_1.6.300.v20230630-1303.jar" version="1.6.300"/>
+    <apicomponent id="org.eclipse.ui.ide.application" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.ide.application_1.5.100.v20230821-1342.jar" version="1.5.100"/>
+    <apicomponent id="org.eclipse.e4.ui.workbench.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.swt_0.17.100.v20230727-0604.jar" version="0.17.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.publisher.eclipse" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.publisher.eclipse_1.5.100.v20230814-2013.jar" version="1.5.100"/>
+    <apicomponent id="org.eclipse.jdt.apt.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.apt.core_3.8.100.v20230804-1454.jar" version="3.8.100"/>
+    <apicomponent id="org.eclipse.core.filesystem" location="/Users/august/.p2/pool/plugins/org.eclipse.core.filesystem_1.10.100.v20230717-1727.jar" version="1.10.100"/>
     <apicomponent id="org.apache.ant" location="/Users/august/.p2/pool/plugins/org.apache.ant_1.10.12.v20211102-1452" version="1.10.12"/>
-    <apicomponent id="org.eclipse.ui.intro" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.intro_3.7.0.v20230503-0628.jar" version="3.7.0"/>
     <apicomponent id="org.apache.jasper.glassfish" location="/Users/august/.p2/pool/plugins/org.apache.jasper.glassfish_2.2.2.v201501141630.jar" version="2.2.2"/>
+    <apicomponent id="org.eclipse.jdt.junit" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit_3.16.100.v20230822-0733.jar" version="3.16.100"/>
+    <apicomponent id="org.eclipse.ui.genericeditor" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.genericeditor_1.3.100.v20230727-0604.jar" version="1.3.100"/>
     <apicomponent id="org.apache.commons.codec" location="/Users/august/.p2/pool/plugins/org.apache.commons.codec_1.14.0.v20221112-0806.jar" version="1.14.0"/>
+    <apicomponent id="junit-platform-suite-api" location="/Users/august/.p2/pool/plugins/junit-platform-suite-api_1.10.0.jar" version="1.10.0"/>
     <apicomponent id="jakarta.inject.jakarta.inject-api" location="/Users/august/.p2/pool/plugins/jakarta.inject.jakarta.inject-api_1.0.5.jar" version="1.0.5"/>
+    <apicomponent id="junit-platform-engine" location="/Users/august/.p2/pool/plugins/junit-platform-engine_1.10.0.jar" version="1.10.0"/>
+    <apicomponent id="org.eclipse.ui.browser" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.browser_3.8.100.v20230727-0604.jar" version="3.8.100"/>
     <apicomponent id="org.w3c.dom.svg" location="/Users/august/.p2/pool/plugins/org.w3c.dom.svg_1.1.0.v201011041433.jar" version="1.1.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.core" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.core_2.10.0.v20230330-0930.jar" version="2.10.0"/>
-    <apicomponent id="org.eclipse.jdt.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.ui_3.29.0.v20230525-0728.jar" version="3.29.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.ui.importexport" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui.importexport_1.4.100.v20230728-2010.jar" version="1.4.100"/>
     <apicomponent id="org.objectweb.asm.commons" location="/Users/august/.p2/pool/plugins/org.objectweb.asm.commons_9.5.0.jar" version="9.5.0"/>
+    <apicomponent id="org.eclipse.ant.launching" location="/Users/august/.p2/pool/plugins/org.eclipse.ant.launching_1.4.100.v20230726-0617.jar" version="1.4.100"/>
     <apicomponent id="org.osgi.service.wireadmin" location="/Users/august/.p2/pool/plugins/org.osgi.service.wireadmin_1.0.2.202109301733.jar" version="1.0.2"/>
     <apicomponent id="org.objectweb.asm.tree" location="/Users/august/.p2/pool/plugins/org.objectweb.asm.tree_9.5.0.jar" version="9.5.0"/>
+    <apicomponent id="org.eclipse.ui.forms" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.forms_3.13.0.v20230807-1354.jar" version="3.13.0"/>
     <apicomponent id="org.apache.commons.jxpath" location="/Users/august/.p2/pool/plugins/org.apache.commons.jxpath_1.3.0.jar" version="1.3.0"/>
     <apicomponent id="org.osgi.service.provisioning" location="/Users/august/.p2/pool/plugins/org.osgi.service.provisioning_1.2.0.201505202024.jar" version="1.2.0"/>
     <apicomponent id="org.eclipse.core.filesystem.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.core.filesystem.macosx_1.3.400.v20220812-1420.jar" version="1.3.400"/>
-    <apicomponent id="org.eclipse.debug.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.debug.ui_3.18.0.v20230516-0719.jar" version="3.18.0"/>
-    <apicomponent id="org.eclipse.jdt.debug" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.debug_3.21.0.v20230329-1610" version="3.21.0"/>
-    <apicomponent id="org.junit" location="/Users/august/.p2/pool/plugins/org.junit_4.13.2.v20211018-1956.jar" version="4.13.2"/>
-    <apicomponent id="org.eclipse.equinox.p2.ui.importexport" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui.importexport_1.4.0.v20230330-0930.jar" version="1.4.0"/>
-    <apicomponent id="org.eclipse.pde.doc.user" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.doc.user_3.14.2000.v20230601-1614.jar" version="3.14.2000"/>
-    <apicomponent id="org.eclipse.team.core" location="/Users/august/.p2/pool/plugins/org.eclipse.team.core_3.10.0.v20230317-0901.jar" version="3.10.0"/>
+    <apicomponent id="org.eclipse.core.databinding.observable" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.13.100.v20230708-0916.jar" version="1.13.100"/>
+    <apicomponent id="org.eclipse.ui.externaltools" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.externaltools_3.6.100.v20230726-0617.jar" version="3.6.100"/>
     <apicomponent id="org.apache.batik.util" location="/Users/august/.p2/pool/plugins/org.apache.batik.util_1.16.0.v20221027-0840.jar" version="1.16.0"/>
+    <apicomponent id="org.eclipse.pde.ds.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ds.ui_1.3.100.v20230728-0611.jar" version="1.3.100"/>
     <apicomponent id="org.eclipse.osgi.util" location="/Users/august/.p2/pool/plugins/org.eclipse.osgi.util_3.7.200.v20230103-1101.jar" version="3.7.200"/>
-    <apicomponent id="junit-jupiter-engine" location="/Users/august/.p2/pool/plugins/junit-jupiter-engine_5.9.3.jar" version="5.9.3"/>
+    <apicomponent id="org.eclipse.core.filebuffers" location="/Users/august/.p2/pool/plugins/org.eclipse.core.filebuffers_3.8.100.v20230727-0604.jar" version="3.8.100"/>
+    <apicomponent id="org.eclipse.e4.ui.services" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.services_1.6.100.v20230630-1554.jar" version="1.6.100"/>
     <apicomponent id="org.apache.httpcomponents.core5.httpcore5-h2" location="/Users/august/.p2/pool/plugins/org.apache.httpcomponents.core5.httpcore5-h2_5.1.4.v20221013-1742.jar" version="5.1.4"/>
-    <apicomponent id="org.eclipse.equinox.p2.directorywatcher" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.directorywatcher_1.4.0.v20230330-0930.jar" version="1.4.0"/>
-    <apicomponent id="org.eclipse.platform" location="/Users/august/.p2/pool/plugins/org.eclipse.platform_4.28.0.v20230605-0440" version="4.28.0"/>
+    <apicomponent id="junit-platform-commons" location="/Users/august/.p2/pool/plugins/junit-platform-commons_1.10.0.jar" version="1.10.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.reconciler.dropins" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.reconciler.dropins_1.5.100.v20230718-0611.jar" version="1.5.100"/>
+    <apicomponent id="org.eclipse.ltk.core.refactoring" location="/Users/august/.p2/pool/plugins/org.eclipse.ltk.core.refactoring_3.14.100.v20230728-0612.jar" version="3.14.100"/>
     <apicomponent id="org.objectweb.asm.tree.analysis" location="/Users/august/.p2/pool/plugins/org.objectweb.asm.tree.analysis_9.5.0.jar" version="9.5.0"/>
-    <apicomponent id="org.eclipse.e4.ui.css.core" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.css.core_0.14.0.v20230317-0802.jar" version="0.14.0"/>
-    <apicomponent id="org.eclipse.equinox.frameworkadmin.equinox" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.frameworkadmin.equinox_1.2.300.v20230320-0659.jar" version="1.2.300"/>
-    <apicomponent id="org.eclipse.jdt.junit.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit.core_3.12.0.v20230323-1830.jar" version="3.12.0"/>
-    <apicomponent id="org.eclipse.pde.core" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.core_3.17.0.v20230515-1841.jar" version="3.17.0"/>
-    <apicomponent id="junit-jupiter-migrationsupport" location="/Users/august/.p2/pool/plugins/junit-jupiter-migrationsupport_5.9.3.jar" version="5.9.3"/>
+    <apicomponent id="org.eclipse.platform.doc.user" location="/Users/august/.p2/pool/plugins/org.eclipse.platform.doc.user_4.29.0.v20230829-1836.jar" version="4.29.0"/>
     <apicomponent id="javax.servlet.jsp-api" location="/Users/august/.p2/pool/plugins/javax.servlet.jsp-api_2.3.3.jar" version="2.3.3"/>
-    <apicomponent id="org.eclipse.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.ui_3.203.100.v20230417-1307.jar" version="3.203.100"/>
-    <apicomponent id="org.eclipse.equinox.p2.transport.ecf" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.transport.ecf_1.4.0.v20230415-1327.jar" version="1.4.0"/>
+    <apicomponent id="org.eclipse.pde.ds.annotations" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ds.annotations_1.3.100.v20230728-2154.jar" version="1.3.100"/>
     <apicomponent id="org.eclipse.e4.ui.widgets" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.widgets_1.4.0.v20230317-0802.jar" version="1.4.0"/>
-    <apicomponent id="org.eclipse.equinox.bidi" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.bidi_1.4.200.v20220710-1223.jar" version="1.4.200"/>
-    <apicomponent id="org.eclipse.jdt.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.core_3.34.0.v20230512-1803.jar" version="3.34.0"/>
-    <apicomponent id="org.eclipse.e4.ui.di" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.di_1.5.0.v20230501-1823.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.pde.ds.core" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ds.core_1.3.0.v20230331-0919.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.core.filebuffers" location="/Users/august/.p2/pool/plugins/org.eclipse.core.filebuffers_3.8.0.v20230316-1200.jar" version="3.8.0"/>
     <apicomponent id="org.eclipse.ecf.provider.filetransfer" location="/Users/august/.p2/pool/plugins/org.eclipse.ecf.provider.filetransfer_3.3.0.v20230422-0242.jar" version="3.3.0"/>
+    <apicomponent id="com.sun.jna" location="/Users/august/.p2/pool/plugins/com.sun.jna_5.13.0.v20230812-1000" version="5.13.0"/>
     <apicomponent id="org.eclipse.jetty.util.ajax" location="/Users/august/.p2/pool/plugins/org.eclipse.jetty.util.ajax_10.0.15.jar" version="10.0.15"/>
+    <apicomponent id="biz.aQute.bndlib" location="/Users/august/.p2/pool/plugins/biz.aQute.bndlib_6.4.1.202306080939.jar" version="6.4.1"/>
     <apicomponent id="org.apache.commons.commons-beanutils" location="/Users/august/.p2/pool/plugins/org.apache.commons.commons-beanutils_1.9.4.jar" version="1.9.4"/>
     <apicomponent id="org.eclipse.jdt.junit4.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit4.runtime_1.3.0.v20220609-1843.jar" version="1.3.0"/>
+    <apicomponent id="org.eclipse.pde.genericeditor.extension" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.genericeditor.extension_1.2.100.v20230728-2154.jar" version="1.2.100"/>
     <apicomponent id="org.apache.commons.collections" location="/Users/august/.p2/pool/plugins/org.apache.commons.collections_3.2.2.jar" version="3.2.2"/>
     <apicomponent id="org.osgi.util.measurement" location="/Users/august/.p2/pool/plugins/org.osgi.util.measurement_1.0.2.201802012109.jar" version="1.0.2"/>
-    <apicomponent id="org.eclipse.emf.ecore.xmi" location="/Users/august/.p2/pool/plugins/org.eclipse.emf.ecore.xmi_2.18.0.v20230211-1150.jar" version="2.18.0"/>
-    <apicomponent id="org.eclipse.platform.doc.user" location="/Users/august/.p2/pool/plugins/org.eclipse.platform.doc.user_4.28.0.v20230601-1614.jar" version="4.28.0"/>
-    <apicomponent id="bcprov" location="/Users/august/.p2/pool/plugins/bcprov_1.73.0.jar" version="1.73.0"/>
+    <apicomponent id="org.eclipse.equinox.security.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.security.macosx_1.102.0.v20230616-1215.jar" version="1.102.0"/>
+    <apicomponent id="bcprov" location="/Users/august/.p2/pool/plugins/bcprov_1.76.0.jar" version="1.76.0"/>
+    <apicomponent id="org.eclipse.e4.ui.css.swt.theme" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.css.swt.theme_0.14.100.v20230727-0604.jar" version="0.14.100"/>
+    <apicomponent id="org.eclipse.e4.ui.model.workbench" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.model.workbench_2.4.100.v20230801-1255.jar" version="2.4.100"/>
     <apicomponent id="org.objectweb.asm.util" location="/Users/august/.p2/pool/plugins/org.objectweb.asm.util_9.5.0.jar" version="9.5.0"/>
-    <apicomponent id="org.eclipse.e4.core.services" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.services_2.4.0.v20230429-1914.jar" version="2.4.0"/>
-    <apicomponent id="org.eclipse.ui.ide" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.ide_3.21.0.v20230526-1500.jar" version="3.21.0"/>
-    <apicomponent id="org.eclipse.pde.api.tools" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.api.tools_1.3.0.v20230501-1515.jar" version="1.3.0"/>
-    <apicomponent id="junit-platform-runner" location="/Users/august/.p2/pool/plugins/junit-platform-runner_1.9.3.jar" version="1.9.3"/>
-    <apicomponent id="org.eclipse.pde.launching" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.launching_3.11.0.v20230515-0022.jar" version="3.11.0"/>
-    <apicomponent id="org.eclipse.ant.core" location="/Users/august/.p2/pool/plugins/org.eclipse.ant.core_3.7.0.v20230329-1001.jar" version="3.7.0"/>
-    <apicomponent id="org.eclipse.jdt.core.compiler.batch" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.core.compiler.batch_3.34.0.v20230523-1233.jar" version="3.34.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.touchpoint.natives" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.touchpoint.natives_1.5.0.v20230330-0930.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.jdt.junit" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit_3.16.0.v20230420-0409.jar" version="3.16.0"/>
-    <apicomponent id="org.eclipse.e4.core.contexts" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.contexts_1.12.0.v20230510-1240.jar" version="1.12.0"/>
-    <apicomponent id="org.eclipse.ui.console" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.console_3.12.0.v20230317-0802.jar" version="3.12.0"/>
+    <apicomponent id="org.eclipse.equinox.simpleconfigurator" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.simpleconfigurator_1.4.300.v20230630-1506.jar" version="1.4.300"/>
+    <apicomponent id="org.eclipse.equinox.p2.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.ui_2.8.100.v20230728-2010.jar" version="2.8.100"/>
+    <apicomponent id="biz.aQute.bnd.util" location="/Users/august/.p2/pool/plugins/biz.aQute.bnd.util_6.4.1.202306080939.jar" version="6.4.1"/>
+    <apicomponent id="org.eclipse.equinox.p2.touchpoint.natives" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.touchpoint.natives_1.5.100.v20230630-1506.jar" version="1.5.100"/>
+    <apicomponent id="org.eclipse.pde.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ui_3.14.100.v20230818-2038.jar" version="3.14.100"/>
+    <apicomponent id="org.eclipse.equinox.frameworkadmin.equinox" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.frameworkadmin.equinox_1.2.400.v20230630-1506.jar" version="1.2.400"/>
+    <apicomponent id="org.eclipse.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.swt_3.124.100.v20230825-1346.jar" version="3.124.100"/>
     <apicomponent id="org.eclipse.ecf.ssl" location="/Users/august/.p2/pool/plugins/org.eclipse.ecf.ssl_1.3.0.v20230507-1921.jar" version="1.3.0"/>
     <apicomponent id="com.jcraft.jsch" location="/Users/august/.p2/pool/plugins/com.jcraft.jsch_0.1.55.v20221112-0806.jar" version="0.1.55"/>
-    <apicomponent id="org.eclipse.jface.text" location="/Users/august/.p2/pool/plugins/org.eclipse.jface.text_3.24.0.v20230525-0719.jar" version="3.24.0"/>
-    <apicomponent id="org.apache.lucene.analysis-smartcn" location="/Users/august/.p2/pool/plugins/org.apache.lucene.analysis-smartcn_9.4.2.v20221211-0752.jar" version="9.4.2"/>
-    <apicomponent id="org.eclipse.e4.ui.workbench3" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench3_0.17.0.v20230317-0802.jar" version="0.17.0"/>
-    <apicomponent id="org.eclipse.help.webapp" location="/Users/august/.p2/pool/plugins/org.eclipse.help.webapp_3.11.0.v20230503-0629.jar" version="3.11.0"/>
-    <apicomponent id="junit-jupiter-api" location="/Users/august/.p2/pool/plugins/junit-jupiter-api_5.9.3.jar" version="5.9.3"/>
-    <apicomponent id="org.eclipse.ui.ide.application" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.ide.application_1.5.0.v20230526-1051.jar" version="1.5.0"/>
+    <apicomponent id="org.eclipse.pde.build" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.build_3.12.100.v20230825-1354" version="3.12.100"/>
+    <apicomponent id="org.eclipse.osgi" location="/Users/august/.p2/pool/plugins/org.eclipse.osgi_3.18.500.v20230801-1826.jar" version="3.18.500"/>
+    <apicomponent id="org.eclipse.jface.notifications" location="/Users/august/.p2/pool/plugins/org.eclipse.jface.notifications_0.6.100.v20230727-0604.jar" version="0.6.100"/>
+    <apicomponent id="org.eclipse.jdt.apt.pluggable.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.apt.pluggable.core_1.4.100.v20230630-1307.jar" version="1.4.100"/>
+    <apicomponent id="org.eclipse.ui.console" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.console_3.13.0.v20230726-0617.jar" version="3.13.0"/>
+    <apicomponent id="org.eclipse.team.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.team.ui_3.10.100.v20230726-0617.jar" version="3.10.100"/>
     <apicomponent id="org.apache.felix.gogo.runtime" location="/Users/august/.p2/pool/plugins/org.apache.felix.gogo.runtime_1.1.6.jar" version="1.1.6"/>
-    <apicomponent id="org.eclipse.update.configurator" location="/Users/august/.p2/pool/plugins/org.eclipse.update.configurator_3.5.0.v20230317-0901.jar" version="3.5.0"/>
     <apicomponent id="org.osgi.annotation.versioning" location="/Users/august/.p2/pool/plugins/org.osgi.annotation.versioning_1.1.2.202109301733.jar" version="1.1.2"/>
-    <apicomponent id="org.eclipse.pde.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ui_3.14.0.v20230515-1841.jar" version="3.14.0"/>
-    <apicomponent id="org.eclipse.equinox.common" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.common_3.18.0.v20230523-2142.jar" version="3.18.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.director.app" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.director.app_1.3.0.v20230330-0930.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.artifact.repository" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.artifact.repository_1.5.0.v20230509-1332.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.pde.genericeditor.extension" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.genericeditor.extension_1.2.0.v20230331-0919.jar" version="1.2.0"/>
-    <apicomponent id="org.eclipse.jsch.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jsch.core_1.5.0.v20230317-0901.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.core.filesystem" location="/Users/august/.p2/pool/plugins/org.eclipse.core.filesystem_1.10.0.v20230425-0513.jar" version="1.10.0"/>
+    <apicomponent id="org.eclipse.ui.editors" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.editors_3.17.0.v20230821-1342.jar" version="3.17.0"/>
+    <apicomponent id="org.eclipse.jdt.core" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.core_3.35.0.v20230814-1356.jar" version="3.35.0"/>
+    <apicomponent id="org.eclipse.jdt.doc.user" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.doc.user_3.15.1900.v20230829-1836.jar" version="3.15.1900"/>
+    <apicomponent id="org.eclipse.equinox.common" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.common_3.18.100.v20230730-1117.jar" version="3.18.100"/>
     <apicomponent id="org.osgi.service.useradmin" location="/Users/august/.p2/pool/plugins/org.osgi.service.useradmin_1.1.1.202109301733.jar" version="1.1.1"/>
     <apicomponent id="org.osgi.service.prefs" location="/Users/august/.p2/pool/plugins/org.osgi.service.prefs_1.1.2.202109301733.jar" version="1.1.2"/>
     <apicomponent id="org.osgi.util.function" location="/Users/august/.p2/pool/plugins/org.osgi.util.function_1.2.0.202109301733.jar" version="1.2.0"/>
-    <apicomponent id="org.eclipse.pde.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.runtime_3.8.0.v20230515-0022.jar" version="3.8.0"/>
+    <apicomponent id="org.eclipse.core.variables" location="/Users/august/.p2/pool/plugins/org.eclipse.core.variables_3.6.100.v20230726-0617.jar" version="3.6.100"/>
+    <apicomponent id="org.eclipse.jdt.launching.macosx" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.launching.macosx_3.6.100.v20230630-1429.jar" version="3.6.100"/>
     <apicomponent id="slf4j.api" location="/Users/august/.p2/pool/plugins/slf4j.api_2.0.7.jar" version="2.0.7"/>
-    <apicomponent id="org.eclipse.debug.ui.launchview" location="/Users/august/.p2/pool/plugins/org.eclipse.debug.ui.launchview_1.1.0.v20230429-1604.jar" version="1.1.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.updatechecker" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.updatechecker_1.4.100.v20230630-1506.jar" version="1.4.100"/>
     <apicomponent id="org.osgi.service.event" location="/Users/august/.p2/pool/plugins/org.osgi.service.event_1.4.1.202109301733.jar" version="1.4.1"/>
-    <apicomponent id="org.eclipse.core.variables" location="/Users/august/.p2/pool/plugins/org.eclipse.core.variables_3.6.0.v20230317-0802.jar" version="3.6.0"/>
+    <apicomponent id="org.eclipse.equinox.p2.updatesite" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.updatesite_1.3.100.v20230630-1506.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.compare" location="/Users/august/.p2/pool/plugins/org.eclipse.compare_3.9.200.v20230726-0617.jar" version="3.9.200"/>
     <apicomponent id="org.eclipse.jdt.junit5.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.junit5.runtime_1.1.100.v20220907-0450.jar" version="1.1.100"/>
-    <apicomponent id="org.eclipse.equinox.p2.metadata" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.metadata_2.7.0.v20230403-0851.jar" version="2.7.0"/>
-    <apicomponent id="junit-vintage-engine" location="/Users/august/.p2/pool/plugins/junit-vintage-engine_5.9.3.jar" version="5.9.3"/>
-    <apicomponent id="org.eclipse.equinox.p2.operations" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.operations_2.7.0.v20230322-1009.jar" version="2.7.0"/>
-    <apicomponent id="org.eclipse.equinox.http.registry" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.http.registry_1.3.200.v20220720-2012.jar" version="1.3.200"/>
+    <apicomponent id="junit-jupiter-params" location="/Users/august/.p2/pool/plugins/junit-jupiter-params_5.10.0.jar" version="5.10.0"/>
+    <apicomponent id="org.eclipse.e4.ui.dialogs" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.dialogs_1.4.100.v20230727-0604.jar" version="1.4.100"/>
+    <apicomponent id="org.hamcrest.core" location="/Users/august/.p2/pool/plugins/org.hamcrest.core_2.2.0.v20230809-1000.jar" version="2.2.0"/>
+    <apicomponent id="org.eclipse.ui.views.properties.tabbed" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.views.properties.tabbed_3.10.100.v20230727-0604.jar" version="3.10.100"/>
     <apicomponent id="org.w3c.dom.smil" location="/Users/august/.p2/pool/plugins/org.w3c.dom.smil_1.0.1.v200903091627.jar" version="1.0.1"/>
+    <apicomponent id="org.eclipse.search" location="/Users/august/.p2/pool/plugins/org.eclipse.search_3.15.200.v20230825-1346.jar" version="3.15.200"/>
+    <apicomponent id="org.eclipse.pde.doc.user" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.doc.user_3.14.2100.v20230829-1836.jar" version="3.14.2100"/>
+    <apicomponent id="org.eclipse.equinox.security.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.security.ui_1.4.0.v20230728-2008.jar" version="1.4.0"/>
+    <apicomponent id="org.eclipse.equinox.http.jetty" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.http.jetty_3.8.300.v20230630-1303.jar" version="3.8.300"/>
     <apicomponent id="org.apache.batik.css" location="/Users/august/.p2/pool/plugins/org.apache.batik.css_1.16.0.v20221027-0840.jar" version="1.16.0"/>
-    <apicomponent id="org.eclipse.e4.ui.progress" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.progress_0.4.0.v20230501-1823.jar" version="0.4.0"/>
     <apicomponent id="org.eclipse.ui.cocoa" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.cocoa_1.3.100.v20230214-1401.jar" version="1.3.100"/>
-    <apicomponent id="org.eclipse.emf.common" location="/Users/august/.p2/pool/plugins/org.eclipse.emf.common_2.28.0.v20230315-1321.jar" version="2.28.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.console" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.console_1.3.0.v20230330-0930.jar" version="1.3.0"/>
-    <apicomponent id="org.eclipse.core.databinding.observable" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.13.0.v20230501-1533.jar" version="1.13.0"/>
-    <apicomponent id="org.eclipse.ui.editors" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.editors_3.16.0.v20230329-1609.jar" version="3.16.0"/>
-    <apicomponent id="org.eclipse.jdt.core.manipulation" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.core.manipulation_1.19.0.v20230512-1848.jar" version="1.19.0"/>
-    <apicomponent id="org.eclipse.core.contenttype" location="/Users/august/.p2/pool/plugins/org.eclipse.core.contenttype_3.9.0.v20230412-0829.jar" version="3.9.0"/>
-    <apicomponent id="org.eclipse.equinox.frameworkadmin" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.frameworkadmin_2.2.100.v20220817-1208.jar" version="2.2.100"/>
+    <apicomponent id="org.eclipse.pde.junit.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.junit.runtime_3.7.100.v20230728-0611.jar" version="3.7.100"/>
+    <apicomponent id="org.eclipse.equinox.preferences" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.preferences_3.10.300.v20230630-1303.jar" version="3.10.300"/>
     <apicomponent id="com.sun.el.javax.el" location="/Users/august/.p2/pool/plugins/com.sun.el.javax.el_3.0.0.jar" version="3.0.0"/>
-    <apicomponent id="org.eclipse.jdt.doc.user" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.doc.user_3.15.1800.v20230601-1614.jar" version="3.15.1800"/>
-    <apicomponent id="slf4j.nop" location="/Users/august/.p2/pool/plugins/slf4j.nop_2.0.7.jar" version="2.0.7"/>
-    <apicomponent id="org.eclipse.equinox.p2.repository.tools" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.repository.tools_2.4.0.v20230330-1254.jar" version="2.4.0"/>
+    <apicomponent id="org.eclipse.core.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.core.runtime_3.29.0.v20230726-0617.jar" version="3.29.0"/>
     <apicomponent id="org.eclipse.ecf.provider.filetransfer.ssl" location="/Users/august/.p2/pool/plugins/org.eclipse.ecf.provider.filetransfer.ssl_1.1.0.v20230422-0242.jar" version="1.1.0"/>
-    <apicomponent id="org.eclipse.compare" location="/Users/august/.p2/pool/plugins/org.eclipse.compare_3.9.0.v20230504-0624.jar" version="3.9.0"/>
-    <apicomponent id="junit-platform-launcher" location="/Users/august/.p2/pool/plugins/junit-platform-launcher_1.9.3.jar" version="1.9.3"/>
-    <apicomponent id="org.eclipse.equinox.security" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.security_1.3.1000.v20220801-1135.jar" version="1.3.1000"/>
-    <apicomponent id="org.eclipse.equinox.p2.reconciler.dropins" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.reconciler.dropins_1.5.0.v20230330-0930.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.team.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.team.ui_3.10.0.v20230317-0901.jar" version="3.10.0"/>
-    <apicomponent id="org.eclipse.emf.ecore" location="/Users/august/.p2/pool/plugins/org.eclipse.emf.ecore_2.34.0.v20230406-1203.jar" version="2.34.0"/>
+    <apicomponent id="org.eclipse.pde.core" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.core_3.17.100.v20230818-2038.jar" version="3.17.100"/>
+    <apicomponent id="org.eclipse.e4.ui.progress" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.progress_0.4.100.v20230727-0604.jar" version="0.4.100"/>
+    <apicomponent id="org.eclipse.equinox.bidi" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.bidi_1.4.300.v20230630-1303.jar" version="1.4.300"/>
     <apicomponent id="org.eclipse.equinox.jsp.jasper.registry" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.jsp.jasper.registry_1.2.100.v20211021-1418.jar" version="1.2.100"/>
-    <apicomponent id="org.eclipse.equinox.p2.extensionlocation" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.extensionlocation_1.5.0.v20230330-0930.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.jface.databinding" location="/Users/august/.p2/pool/plugins/org.eclipse.jface.databinding_1.15.0.v20230317-0802.jar" version="1.15.0"/>
+    <apicomponent id="org.eclipse.pde.ua.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.ua.ui_1.3.100.v20230728-0611.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.core.jobs" location="/Users/august/.p2/pool/plugins/org.eclipse.core.jobs_3.15.0.v20230808-1403.jar" version="3.15.0"/>
+    <apicomponent id="org.eclipse.equinox.http.registry" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.http.registry_1.3.300.v20230630-1303.jar" version="1.3.300"/>
     <apicomponent id="org.eclipse.osgi.compatibility.state" location="/Users/august/.p2/pool/plugins/org.eclipse.osgi.compatibility.state_1.2.800.v20221116-1440.jar" version="1.2.800"/>
-    <apicomponent id="org.eclipse.ant.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.ant.ui_3.9.0.v20230329-1001.jar" version="3.9.0"/>
     <apicomponent id="org.eclipse.equinox.concurrent" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.concurrent_1.2.100.v20211021-1418.jar" version="1.2.100"/>
+    <apicomponent id="junit-platform-suite-engine" location="/Users/august/.p2/pool/plugins/junit-platform-suite-engine_1.10.0.jar" version="1.10.0"/>
     <apicomponent id="org.osgi.service.component" location="/Users/august/.p2/pool/plugins/org.osgi.service.component_1.5.1.202212101352.jar" version="1.5.1"/>
+    <apicomponent id="org.eclipse.ui.net" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.net_1.5.100.v20230726-0617.jar" version="1.5.100"/>
     <apicomponent id="org.apache.httpcomponents.core5.httpcore5" location="/Users/august/.p2/pool/plugins/org.apache.httpcomponents.core5.httpcore5_5.1.4.v20221013-1742.jar" version="5.1.4"/>
-    <apicomponent id="org.eclipse.equinox.registry" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.registry_3.11.200.v20220817-1601.jar" version="3.11.200"/>
-    <apicomponent id="org.eclipse.core.net" location="/Users/august/.p2/pool/plugins/org.eclipse.core.net_1.5.0.v20230317-0901.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.e4.core.commands" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.commands_1.1.0.v20230501-1823.jar" version="1.1.0"/>
-    <apicomponent id="org.eclipse.e4.ui.dialogs" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.dialogs_1.4.0.v20230317-0802.jar" version="1.4.0"/>
+    <apicomponent id="org.eclipse.core.resources" location="/Users/august/.p2/pool/plugins/org.eclipse.core.resources_3.19.100.v20230814-1312.jar" version="3.19.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.repository" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.repository_2.7.100.v20230710-0621.jar" version="2.7.100"/>
     <apicomponent id="org.eclipse.jdt.core.formatterapp" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.core.formatterapp_1.2.0.v20230323-1537.jar" version="1.2.0"/>
-    <apicomponent id="org.eclipse.e4.ui.workbench.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.workbench.swt_0.17.0.v20230501-1823.jar" version="0.17.0"/>
-    <apicomponent id="biz.aQute.bndlib" location="/Users/august/.p2/pool/plugins/biz.aQute.bndlib_6.4.0.202211291949.jar" version="6.4.0"/>
-    <apicomponent id="org.eclipse.core.runtime" location="/Users/august/.p2/pool/plugins/org.eclipse.core.runtime_3.27.0.v20230515-1719.jar" version="3.27.0"/>
-    <apicomponent id="org.apache.lucene.analysis-common" location="/Users/august/.p2/pool/plugins/org.apache.lucene.analysis-common_9.4.2.v20221211-0752.jar" version="9.4.2"/>
+    <apicomponent id="org.eclipse.e4.core.commands" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.core.commands_1.1.100.v20230630-1554.jar" version="1.1.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.touchpoint.eclipse" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.touchpoint.eclipse_2.4.100.v20230630-1506.jar" version="2.4.100"/>
     <apicomponent id="org.apache.felix.gogo.shell" location="/Users/august/.p2/pool/plugins/org.apache.felix.gogo.shell_1.1.4.jar" version="1.1.4"/>
     <apicomponent id="org.eclipse.ecf" location="/Users/august/.p2/pool/plugins/org.eclipse.ecf_3.11.0.v20230507-1923.jar" version="3.11.0"/>
     <apicomponent id="org.tukaani.xz" location="/Users/august/.p2/pool/plugins/org.tukaani.xz_1.9.0.jar" version="1.9.0"/>
-    <apicomponent id="org.eclipse.e4.ui.model.workbench" location="/Users/august/.p2/pool/plugins/org.eclipse.e4.ui.model.workbench_2.4.0.v20230404-0801.jar" version="2.4.0"/>
+    <apicomponent id="org.eclipse.core.databinding.property" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding.property_1.10.100.v20230708-0916.jar" version="1.10.100"/>
     <apicomponent id="org.apache.batik.i18n" location="/Users/august/.p2/pool/plugins/org.apache.batik.i18n_1.16.0.v20221027-0840.jar" version="1.16.0"/>
-    <apicomponent id="org.eclipse.ui.views" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.views_3.12.0.v20230317-0802.jar" version="3.12.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.director" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.director_2.6.0.v20230322-1009.jar" version="2.6.0"/>
-    <apicomponent id="org.eclipse.equinox.p2.publisher.eclipse" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.publisher.eclipse_1.5.0.v20230330-1254.jar" version="1.5.0"/>
-    <apicomponent id="org.eclipse.swt" location="/Users/august/.p2/pool/plugins/org.eclipse.swt_3.124.0.v20230523-1044.jar" version="3.124.0"/>
-    <apicomponent id="org.eclipse.jdt.launching" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.launching_3.20.0.v20230425-1118.jar" version="3.20.0"/>
+    <apicomponent id="org.eclipse.jdt.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.jdt.ui_3.30.0.v20230822-0733.jar" version="3.30.0"/>
+    <apicomponent id="org.eclipse.pde.api.tools.ui" location="/Users/august/.p2/pool/plugins/org.eclipse.pde.api.tools.ui_1.3.100.v20230813-2156.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.equinox.p2.jarprocessor" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.jarprocessor_1.3.200.v20230630-1506.jar" version="1.3.200"/>
+    <apicomponent id="org.eclipse.ui.monitoring" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.monitoring_1.3.100.v20230727-0604.jar" version="1.3.100"/>
+    <apicomponent id="org.eclipse.team.genericeditor.diff.extension" location="/Users/august/.p2/pool/plugins/org.eclipse.team.genericeditor.diff.extension_1.2.100.v20230621-0939.jar" version="1.2.100"/>
+    <apicomponent id="org.eclipse.text.quicksearch" location="/Users/august/.p2/pool/plugins/org.eclipse.text.quicksearch_1.2.200.v20230701-1052.jar" version="1.2.200"/>
+    <apicomponent id="org.eclipse.equinox.p2.engine" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.p2.engine_2.8.100.v20230630-1506.jar" version="2.8.100"/>
+    <apicomponent id="org.eclipse.ui.views" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.views_3.12.100.v20230821-1342.jar" version="3.12.100"/>
     <apicomponent id="jakarta.servlet-api" location="/Users/august/.p2/pool/plugins/jakarta.servlet-api_4.0.0.jar" version="4.0.0"/>
     <apicomponent id="org.eclipse.equinox.event" location="/Users/august/.p2/pool/plugins/org.eclipse.equinox.event_1.6.200.v20230120-0604.jar" version="1.6.200"/>
-    <apicomponent id="org.eclipse.core.databinding.beans" location="/Users/august/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.10.0.v20230317-0802.jar" version="1.10.0"/>
     <apicomponent id="org.eclipse.jetty.http" location="/Users/august/.p2/pool/plugins/org.eclipse.jetty.http_10.0.15.jar" version="10.0.15"/>
     <apicomponent id="org.apache.xmlgraphics" location="/Users/august/.p2/pool/plugins/org.apache.xmlgraphics_2.7.0.v20221018-0736.jar" version="2.7.0"/>
+    <apicomponent id="org.eclipse.ui.cheatsheets" location="/Users/august/.p2/pool/plugins/org.eclipse.ui.cheatsheets_3.8.100.v20230725-0936.jar" version="3.8.100"/>
 </apiprofile>
