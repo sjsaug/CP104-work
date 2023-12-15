@@ -20,6 +20,7 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/august/Downloads/roym2983_e.zip"/>
 			<item value="/Users/august/Downloads/roym2983_a09.zip"/>
 			<item value="/Users/august/Downloads/roym2983_l11.zip"/>
 			<item value="/Users/august/Downloads/roym2983_a08.zip"/>
@@ -44,5 +45,9 @@
 	<section name="NewWizardAction">
 	</section>
 	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/august/Downloads/roym2983_badexamzip.zip"/>
+		</list>
 	</section>
 </section>
